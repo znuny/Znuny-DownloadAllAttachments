@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<otrs_package version="1.0">
+<package version="1.0">
     <Name>Znuny-DownloadAllAttachments</Name>
     <Version>7.3.1</Version>
-    <Framework>7.3.x</Framework>
+    <Framework>7.5.x</Framework>
     <ModuleRequired>Archive::Zip</ModuleRequired>
     <Vendor>Znuny GmbH</Vendor>
     <URL>http://znuny.com/</URL>
@@ -37,4 +37,4 @@
         <File Permission="660" Location="Kernel/Output/HTML/TicketMenu/ZnunyDownloadAllAttachments.pm"/>
     </Filelist>
     <PackageMerge Name="Znuny4OTRS-DownloadAllAttachments" TargetVersion="6.0.5"/>
-</otrs_package>
+</package>

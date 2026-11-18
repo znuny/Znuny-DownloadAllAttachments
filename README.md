@@ -17,7 +17,7 @@ With this extension you will be able to download all attachments of a single art
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
